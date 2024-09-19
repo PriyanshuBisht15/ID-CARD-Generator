@@ -1,2 +1,9 @@
-# QR-Code-Generator
-A QR code generator is a tool or software that creates Quick Response (QR) codes, which are two-dimensional barcodes capable of storing various types of data. The generated QR code can encode text, URLs, contact details, Wi-Fi network information, or other data. Once generated, the QR code can be scanned by smartphones or other devices equipped with a camera and QR code reading software, which then decodes the stored information for the user.
+#ID-Code-Generator
+The ID Card Generator is a versatile, user-friendly tool designed to create personalized identification cards for individuals or organizations. Whether for corporate settings, schools, events, or personal projects, this tool allows you to generate professional ID cards with ease. Users can upload personal details such as names, photos, roles, and contact information, and choose from a range of templates and design options to suit their branding. The tool also supports customization features like:
+
+Custom Logos and Backgrounds: Integrate your own branding or select from pre-designed themes.
+QR Code and Barcode Integration: Add scannable codes for access control, event management, or tracking.
+Multiple Export Formats: Save your designs in popular formats such as PDF, PNG, or directly print-ready.
+Security Features: Include holographic overlays, digital signatures, and watermarks for added security.
+Ideal for businesses, educational institutions, conferences, and more, this tool simplifies the ID creation process while ensuring a professional finish.
+
