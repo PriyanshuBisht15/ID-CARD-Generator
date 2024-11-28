@@ -8,3 +8,37 @@ The ID Card Generator is a versatile, user-friendly tool designed to create pers
 - Security Features: Include holographic overlays, digital signatures, and watermarks for added security.
 - Ideal for businesses, educational institutions, conferences, and more, this tool simplifies the ID creation process while ensuring a professional finish.
 
+## How to Use
+1. Run the Script
+- Execute the script in your Python environment.
+- The script will prompt you to enter details step by step.
+
+2. Enter Required Information
+- Company Name
+- Full Name
+- Gender
+- Age
+- Date of Birth
+- Blood Group
+- Mobile Number
+- Address
+
+3. Generated Files
+- An ID card image named <FullName>.png will be saved in the same directory.
+- A QR code image named <UniqueID>.bmp will also be created.
+
+4. Embedded QR Code
+- The QR code, containing the company name, user name, and unique ID, is embedded into the ID card image.
+
+## Output
+The output is a customized ID card with:
+- Company logo or name.
+- User details formatted neatly.
+- QR code placed on the card for quick information access.
+
+## Example Use Case
+- Corporate ID cards
+- Event badges
+- School or college ID cards
+
+  
